@@ -1,16 +1,17 @@
-## Hi there 👋
-My name is Royal Goodsell
-<!--
-**Greeny299/Greeny299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Royal
 
-Here are some ideas to get you started:
+I am a **Cybersecurity major at BYU-Idaho**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on many projects involving:
+- Web design
+- Cloud
+- Linux
+- And more
+
+## About Me
+I enjoy building practical technical skills through hands-on projects and continuous learning.
+
+## Current Focus
+- Strengthening cybersecurity fundamentals
+- Expanding cloud and Linux experience
+- Building and improving web projects
